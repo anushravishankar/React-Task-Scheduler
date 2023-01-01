@@ -14,9 +14,9 @@ Functionalities: Add, delete and view scheduled tasks with day/time, additional 
 Steps to download and run app locally:
 
 ### Start react dev server -> [http://localhost:3000](http://localhost:3000)
-### `npm start`
+### `npm start                                                            `
 
-### Start json server ->
+### Start json server -> [http://localhost:5000](http://localhost:5000)
 ### `npm run server`
 
 ### Build for production ->
