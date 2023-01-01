@@ -13,7 +13,7 @@ Functionalities: Add, delete and view scheduled tasks with day/time, additional 
 
 Steps to download and run app locally:
 
-Start react dev server
+#### Start react dev server
 ### `npm start`
 
 Start json server 
